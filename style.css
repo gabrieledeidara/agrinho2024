@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap')
+ :root {
+    --claro: rgb(150, 204, 137);
+    --verde: rgba(155, 216, 130, 0.89);
+    --verde-escura: #72a365;
+    --branca: #fff;
+    --luz: rgb(212, 207, 202);
+  }
+    body{
+
+background: linear-gradient(45deg, #9fdd86 0%,#5ca356ab 100%);
+ 
+}
+h1 {
+font-size: 25px; 
+font-family: Caveat ;
+
+}
+
+h2{
+
+font-size: 25px; 
+font-family:Dancing Script;
+
+}
+h3{
+
+    font-size: 25px;
+    font-family: Dancing Script;
+}
+h4{
+
+    font-size: 25px;
+    font-family:Dancing Script;
+}
+h5{
+
+    font-size: 25px;
+    font-family:Dancing Script;
+}
+}
+.img1{
+    width: 30%;
+}
+.img2{
+    width: 25%;
+}
+.img3{
+    width: 25%;
+}
+.img
+
