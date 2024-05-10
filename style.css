@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap')
  :root {
-    --claro: rgb(150, 204, 137);
+    --claro: rgb(172, 216, 161);
     --verde: rgba(155, 216, 130, 0.89);
     --verde-escura: #72a365;
     --branca: #fff;
