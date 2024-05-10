@@ -31,9 +31,10 @@ h3{
     font-size: 30px;
     align-items: center;
 }
-.div-img1{
+.div-img1{text-align: center;}
+.img1{
     width: 30%;
-    align-items: center;
+    
 }
 .img2{
     width: 30%;
