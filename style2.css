@@ -5,7 +5,7 @@
     --azul: rgba(97, 140, 180, 0.89);
     --azul-escura: #4869b1;
     --branca: #fff;
-    --luz: rgb(212, 207, 202);
+    --luz: rgb(213, 218, 224);
   }
     body{
 
@@ -37,17 +37,6 @@ h3{
 .img1{
     width: 30%;
 }
-.div-img2{
-    text-align: center;
-}
-.img2{
-    width: 30%;
-}
-.div-img3{
-    text-align: center;
-}
-.img3{
-    width: 30%;
-}
+
 
 
