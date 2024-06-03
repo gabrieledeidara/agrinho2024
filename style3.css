@@ -59,9 +59,8 @@ body {
         --botao-inativo: rgba(90, 147, 165, 0.856);
         --texto-fundo: rgba(94, 103, 107, 0.459);
     }
-    …    width: 100%;
-        font-size: 32px;
-    }
+    
+}
     
     .titulo-principal span {
         color: var(--verde);
