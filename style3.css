@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap');
+ :root {
+    --claro: rgb(230, 154, 179);
+    --verde: rgba(155, 216, 130, 0.89);
+    --verde-escura: #d8abbc;
+    --branca: #fff;
+    --luz: rgb(212, 207, 202);
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #be7e7e;
     color: #fff;
     text-align: center;
     padding: 20px 0;
