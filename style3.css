@@ -6,6 +6,7 @@
     --verde-escura: #d8abbc;
     --branca: #fff;
     --luz: rgb(212, 207, 202);
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
