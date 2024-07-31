@@ -30,7 +30,7 @@ header {
 h2{
     font-size: 40px;
     font-family: Caveat;
-    align-items: center;
+    text-align: center;
 }
 p{
     font-size: 25px;
