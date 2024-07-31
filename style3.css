@@ -28,8 +28,9 @@ header {
     font-size: 40px;
 }
 h2{
-    font-size: 30px;
-    font-family: Dancing+Script;
+    font-size: 40px;
+    font-family: Caveat;
+    align-items: center;
 }
 p{
     font-size: 25px;
