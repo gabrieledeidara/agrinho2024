@@ -37,6 +37,30 @@ h3{
 .img1{
     width: 30%;
 }
+@media screen and (min-width: 768px) {
+    .img3{
+        width: 10%;
+    }
+    .img2{
+        width: 10%;
+    }
+    .img1{
+        width: 10%;
+    }
+    h1 {
+        font-size: 25px; 
+        font-family: Caveat ;
+        text-align: center;
+        
+        }
+        h2{
+
+            font-size: 20px; 
+            font-family:Dancing Script;
+            text-align: center;
+            
+            }
+}
 
 
 
