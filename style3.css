@@ -32,6 +32,11 @@ h2{
     font-family: Caveat;
     text-align: center;
 }
+h1{
+    font-size: 30px;
+    font-family: Dancing+Script;
+    text-align: center;
+}
 p{
     font-size: 25px;
 }
