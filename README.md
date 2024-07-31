@@ -1,5 +1,6 @@
 # agrinho2024
 créditos de imagens e textos há
+
 https://www.revistaadventista.com.br/erton-kohler/bussola/campo-ou-cidade/
 
 https://www.sistemafaep.org.br/agrinho/
